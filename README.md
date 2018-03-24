@@ -1,4 +1,4 @@
 # hello-world
 First attempt
 
-Long journey starts from the first step. It is the most difficult part of any adventure.
+Any long journey starts from a first step. It is the most difficult part of any adventure.
